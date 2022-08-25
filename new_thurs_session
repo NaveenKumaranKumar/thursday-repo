@@ -1,0 +1,40 @@
+Script started on 2022-08-25 13:24:51-05:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="211" LINES="50"]
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~[00m$ pwd
+/home/naveen_kumaran_kumar
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~[00m$ ll
+total 80
+drwxr-xr-x 8 naveen_kumaran_kumar naveen_kumaran_kumar 4096 Aug 25 13:24 [0m[01;34m.[0m/
+drwxr-xr-x 3 root                 root                 4096 Aug 23 00:16 [01;34m..[0m/
+-rw------- 1 naveen_kumaran_kumar naveen_kumaran_kumar 2415 Aug 25 01:00 .bash_history
+-rw-r--r-- 1 naveen_kumaran_kumar naveen_kumaran_kumar  220 Aug 23 00:16 .bash_logout
+-rw-r--r-- 1 naveen_kumaran_kumar naveen_kumaran_kumar 3771 Aug 23 00:16 .bashrc
+drwx------ 2 naveen_kumaran_kumar naveen_kumaran_kumar 4096 Aug 24 23:48 [01;34m.cache[0m/
+drwxr-xr-x 8 naveen_kumaran_kumar naveen_kumaran_kumar 4096 Aug 25 02:00 [01;34m.git[0m/
+-rw-r--r-- 1 naveen_kumaran_kumar naveen_kumaran_kumar   74 Aug 24 23:37 .gitconfig
+drwxr-xr-x 2 naveen_kumaran_kumar naveen_kumaran_kumar 4096 Aug 23 00:17 [01;34m.landscape[0m/
+drwxr-xr-x 3 naveen_kumaran_kumar naveen_kumaran_kumar 4096 Aug 23 17:58 [01;34m.local[0m/
+-rw-r--r-- 1 naveen_kumaran_kumar naveen_kumaran_kumar    0 Aug 23 00:17 .motd_shown
+-rw-r--r-- 1 naveen_kumaran_kumar naveen_kumaran_kumar  807 Aug 23 00:16 .profile
+-rw------- 1 naveen_kumaran_kumar naveen_kumaran_kumar   13 Aug 23 00:24 .pythonhist
+-rw-r--r-- 1 naveen_kumaran_kumar naveen_kumaran_kumar    0 Aug 23 00:18 .sudo_as_admin_successful
+-rw------- 1 naveen_kumaran_kumar naveen_kumaran_kumar 8729 Aug 25 00:21 .viminfo
+-rw-r--r-- 1 naveen_kumaran_kumar naveen_kumaran_kumar   40 Aug 23 18:36 Naveen.txt
+drwxr-xr-x 3 naveen_kumaran_kumar naveen_kumaran_kumar 4096 Aug 24 23:51 [01;34mgit_workspace[0m/
+-rw-r--r-- 1 naveen_kumaran_kumar naveen_kumaran_kumar    0 Aug 23 18:22 iie.txt
+drwxr-xr-x 2 naveen_kumaran_kumar naveen_kumaran_kumar 4096 Aug 23 18:30 [01;34mkk[0m/
+-rw-r--r-- 1 naveen_kumaran_kumar naveen_kumaran_kumar 5089 Aug 25 01:48 my_unix_session
+-rw-r--r-- 1 naveen_kumaran_kumar naveen_kumaran_kumar    0 Aug 25 13:24 thurs_session
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~[00m$ cd 
+.cache/        .git/          .landscape/    .local/        git_workspace/ kk/            
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~[00m$ cd kk
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/kk[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/kk[00m$ ll
+total 12
+drwxr-xr-x 2 naveen_kumaran_kumar naveen_kumaran_kumar 4096 Aug 23 18:30 [0m[01;34m.[0m/
+drwxr-xr-x 8 naveen_kumaran_kumar naveen_kumaran_kumar 4096 Aug 25 13:24 [01;34m..[0m/
+-rw-r--r-- 1 naveen_kumaran_kumar naveen_kumaran_kumar    7 Aug 23 18:30 kke.txt
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/kk[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/kk[00m$ cat kke.txt 
+fejifj
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/kk[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/kk[00m$ exit
+exit
+
+Script done on 2022-08-25 13:25:52-05:00 [COMMAND_EXIT_CODE="0"]
