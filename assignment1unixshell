@@ -1,0 +1,192 @@
+Script started on 2022-08-25 14:41:30-05:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="211" LINES="50"]
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/newtry[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/newtry[00m$ ll
+total 16
+drwxr-xr-x  3 naveen_kumaran_kumar naveen_kumaran_kumar 4096 Aug 25 13:59 [0m[01;34m.[0m/
+drwxr-xr-x 10 naveen_kumaran_kumar naveen_kumaran_kumar 4096 Aug 25 14:41 [01;34m..[0m/
+drwxr-xr-x  8 naveen_kumaran_kumar naveen_kumaran_kumar 4096 Aug 25 14:15 [01;34m.git[0m/
+-rw-r--r--  1 naveen_kumaran_kumar naveen_kumaran_kumar 3306 Aug 25 13:57 new_thurs_session
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/newtry[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/newtry[00m$ pwd
+/home/naveen_kumaran_kumar/newtry
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/newtry[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/newtry[00m$ ls
+new_thurs_session
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/newtry[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/newtry[00m$ ll
+total 16
+drwxr-xr-x  3 naveen_kumaran_kumar naveen_kumaran_kumar 4096 Aug 25 13:59 [0m[01;34m.[0m/
+drwxr-xr-x 10 naveen_kumaran_kumar naveen_kumaran_kumar 4096 Aug 25 14:41 [01;34m..[0m/
+drwxr-xr-x  8 naveen_kumaran_kumar naveen_kumaran_kumar 4096 Aug 25 14:15 [01;34m.git[0m/
+-rw-r--r--  1 naveen_kumaran_kumar naveen_kumaran_kumar 3306 Aug 25 13:57 new_thurs_session
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/newtry[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/newtry[00m$ cd ..
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~[00m$ ll
+total 96
+drwxr-xr-x 10 naveen_kumaran_kumar naveen_kumaran_kumar 4096 Aug 25 14:41 [0m[01;34m.[0m/
+drwxr-xr-x  3 root                 root                 4096 Aug 23 00:16 [01;34m..[0m/
+-rw-------  1 naveen_kumaran_kumar naveen_kumaran_kumar 2495 Aug 25 13:52 .bash_history
+-rw-r--r--  1 naveen_kumaran_kumar naveen_kumaran_kumar  220 Aug 23 00:16 .bash_logout
+-rw-r--r--  1 naveen_kumaran_kumar naveen_kumaran_kumar 3771 Aug 23 00:16 .bashrc
+drwx------  2 naveen_kumaran_kumar naveen_kumaran_kumar 4096 Aug 24 23:48 [01;34m.cache[0m/
+drwxr-xr-x  8 naveen_kumaran_kumar naveen_kumaran_kumar 4096 Aug 25 13:55 [01;34m.git[0m/
+-rw-r--r--  1 naveen_kumaran_kumar naveen_kumaran_kumar   82 Aug 25 14:08 .gitconfig
+drwxr-xr-x  2 naveen_kumaran_kumar naveen_kumaran_kumar 4096 Aug 23 00:17 [01;34m.landscape[0m/
+drwxr-xr-x  3 naveen_kumaran_kumar naveen_kumaran_kumar 4096 Aug 23 17:58 [01;34m.local[0m/
+-rw-r--r--  1 naveen_kumaran_kumar naveen_kumaran_kumar    0 Aug 23 00:17 .motd_shown
+-rw-r--r--  1 naveen_kumaran_kumar naveen_kumaran_kumar  807 Aug 23 00:16 .profile
+-rw-------  1 naveen_kumaran_kumar naveen_kumaran_kumar   13 Aug 23 00:24 .pythonhist
+-rw-r--r--  1 naveen_kumaran_kumar naveen_kumaran_kumar    0 Aug 23 00:18 .sudo_as_admin_successful
+-rw-------  1 naveen_kumaran_kumar naveen_kumaran_kumar 8729 Aug 25 00:21 .viminfo
+-rw-r--r--  1 naveen_kumaran_kumar naveen_kumaran_kumar   40 Aug 23 18:36 Naveen.txt
+-rw-r--r--  1 naveen_kumaran_kumar naveen_kumaran_kumar    0 Aug 25 14:41 assignment1unixshell
+drwxr-xr-x  3 naveen_kumaran_kumar naveen_kumaran_kumar 4096 Aug 24 23:51 [01;34mgit_workspace[0m/
+-rw-r--r--  1 naveen_kumaran_kumar naveen_kumaran_kumar    0 Aug 23 18:22 iie.txt
+drwxr-xr-x  2 naveen_kumaran_kumar naveen_kumaran_kumar 4096 Aug 23 18:30 [01;34mkk[0m/
+-rw-r--r--  1 naveen_kumaran_kumar naveen_kumaran_kumar 5089 Aug 25 01:48 my_unix_session
+drwxr-xr-x  3 naveen_kumaran_kumar naveen_kumaran_kumar 4096 Aug 25 13:59 [01;34mnewtry[0m/
+-rw-r--r--  1 naveen_kumaran_kumar naveen_kumaran_kumar 3306 Aug 25 13:25 thurs_session
+drwxr-xr-x  2 naveen_kumaran_kumar naveen_kumaran_kumar 4096 Aug 25 13:48 [01;34mthursday25[0m/
+-rw-r--r--  1 naveen_kumaran_kumar naveen_kumaran_kumar 4081 Aug 25 13:52 thursday25recording
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~[00m$ mkdir rough tries[K[K[K[K[K[K[K[K[K[K[KRoughAssignment1
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~[00m$ pwd
+/home/naveen_kumaran_kumar
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~[00m$ cd 
+.cache/           .git/             .landscape/       .local/           RoughAssignment1/ git_workspace/    kk/               newtry/           thursday25/       
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~[00m$ cd r[KRoughAssignment1/[K
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/RoughAssignment1[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/RoughAssignment1[00m$ touch draft.txt
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/RoughAssignment1[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/RoughAssignment1[00m$ cat draft.txt '
+> 
+> exit
+> ll
+> cat draft.txt '
+
+exit
+ll[A[A[Atouch draft.txt
+[K
+[K
+[K[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat draft.txt '
+
+exit
+ll[A[A[A[K
+[K
+[K
+[K[A[A[A[C[Ccat draft.txt '
+
+exit
+ll[A[A[A[K
+[K
+[K
+[K[A[A[A[C[C''[K
+cat: ''$'\n\n''exit'$'\n''ll'$'\n': No such file or directory
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/RoughAssignment1[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/RoughAssignment1[00m$ cat draft.txt 
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/RoughAssignment1[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/RoughAssignment1[00m$ vim draft.txt 
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;50r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[50;1H"draft.txt" 0L, 0C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[2;1H[94m~                                                                                                                                                                                                                  [3;1H~                                                                                                                                                                                                                  [4;1H~                                                                                                                                                                                                                  [5;1H~                                                                                                                                                                                                                  [6;1H~                                                                                                                                                                                                                  [7;1H~                                                                                                                                                                                                                  [8;1H~                                                                                                                                                                                                                  [9;1H~                                                                                                                                                                                                                  [10;1H~                                                                                                                                                                                                                  [11;1H~                                                                                                                                                                                                                  [12;1H~                                                                                                                                                                                                                  [13;1H~                                                                                                                                                                                                                  [14;1H~                                                                                                                                                                                                                  [15;1H~                                                                                                                                                                                                                  [16;1H~                                                                                                                                                                                                                  [17;1H~                                                                                                                                                                                                                  [18;1H~                                                                                                                                                                                                                  [19;1H~                                                                                                                                                                                                                  [20;1H~                                                                                                                                                                                                                  [21;1H~                                                                                                                                                                                                                  [22;1H~                                                                                                                                                                                                                  [23;1H~                                                                                                                                                                                                                  [24;1H~                                                                                                                                                                                                                  [25;1H~                                                                                                                                                                                                                  [26;1H~                                                                                                                                                                                                                  [27;1H~                                                                                                                                                                                                                  [28;1H~                                                                                                                                                                                                                  [29;1H~                                                                                                                                                                                                                  [30;1H~                                                                                                                                                                                                                  [31;1H~                                                                                                                                                                                                                  [32;1H~                                                                                                                                                                                                                  [33;1H~                                                                                                                                                                                                                  [34;1H~                                                                                                                                                                                                                  [35;1H~                                                                                                                                                                                                                  [36;1H~                                                                                                                                                                                                                  [37;1H~                                                                                                                                                                                                                  [38;1H~                                                                                                                                                                                                                  [39;1H~                                                                                                                                                                                                                  [40;1H~                                                                                                                                                                                                                  [41;1H~                                                                                                                                                                                                                  [42;1H~                                                                                                                                                                                                                  [43;1H~                                                                                                                                                                                                                  [44;1H~                                                                                                                                                                                                                  [45;1H~                                                                                                                                                                                                                  [46;1H~                                                                                                                                                                                                                  [47;1H~                                                                                                                                                                                                                  [48;1H~                                                                                                                                                                                                                  [49;1H~                                                                                                                                                                                                                  [m[50;194H0,0-1[9CAll[1;1H[?25h[?25l[50;184HI[1;1H[50;184H [1;1H[50;1H[1m-- INSERT --[m[50;13H[K[50;194H0,1[11CAll[1;1H[?25h[?25lH[50;194H1,2[1;2H[?25h[?25le[50;196H3[1;3H[?25h[?25ly[50;196H4[1;4H[?25h[?25l[50;196H5[1;5H[?25h[?25lt[50;196H6[1;6H[?25h[?25lh[50;196H7[1;7H[?25h[?25le[50;196H8[1;8H[?25h[?25lr[50;196H9[1;9H[?25h[?25le[50;196H10[1;10H[?25h[?25l![50;197H1[1;11H[?25h[?25l[2;1H[K[50;194H2,1 [2;1H[?25h[?25lT[50;196H2[2;2H[?25h[?25lh[50;196H3[2;3H[?25h[?25li[50;196H4[2;4H[?25h[?25ls[50;196H5[2;5H[?25h[?25l[50;196H6[2;6H[?25h[?25li[50;196H7[2;7H[?25h[?25ls[50;196H8[2;8H[?25h[?25l[50;196H9[2;9H[?25h[?25lm[50;196H10[2;10H[?25h[?25ly[50;197H1[2;11H[?25h[?25l[50;197H2[2;12H[?25h[?25lf[50;197H3[2;13H[?25h[?25lu[50;197H4[2;14H[?25h[?25l[2;13H[K[50;197H3[2;13H[?25h[?25li[50;197H4[2;14H[?25h[?25lr[50;197H5[2;15H[?25h[?25ls[50;197H6[2;16H[?25h[?25lt[50;197H7[2;17H[?25h[?25l[50;197H8[2;18H[?25h[?25la[50;197H9[2;19H[?25h[?25ls[50;196H20[2;20H[?25h[?25ls[50;197H1[2;21H[?25h[?25li[50;197H2[2;22H[?25h[?25lg[50;197H3[2;23H[?25h[?25ln[50;197H4[2;24H[?25h[?25lm[50;197H5[2;25H[?25h[?25le[50;197H6[2;26H[?25h[?25ln[50;197H7[2;27H[?25h[?25lt[50;197H8[2;28H[?25h[?25l[50;197H9[2;29H[?25h[?25lo[50;196H30[2;30H[?25h[?25ln[50;197H1[2;31H[?25h[?25l[50;197H2[2;32H[?25h[?25lu[50;197H3[2;33H[?25h[?25ln[50;197H4[2;34H[?25h[?25li[50;197H5[2;35H[?25h[?25lz[50;197H6[2;36H[?25h[?25l[2;35H[K[50;197H5[2;35H[?25h[?25lx[50;197H6[2;36H[?25h[?25l[50;197H7[2;37H[?25h[?25ls[50;197H8[2;38H[?25h[?25lh[50;197H9[2;39H[?25h[?25le[50;196H40[2;40H[?25h[?25ll[50;197H1[2;41H[?25h[?25ll[50;197H2[2;42H[?25h[?25l[3;1H[K[50;194H3,1 [3;1H[?25h[?25l[50;196H2[3;2H[?25h[?25l[50;196H1[3;1H[?25h[?25lH[50;196H2[3;2H[?25h[?25la[50;196H3[3;3H[?25h[?25lv[50;196H4[3;4H[?25h[?25le[50;196H5[3;5H[?25h[?25l[50;196H6[3;6H[?25h[?25la[50;196H7[3;7H[?25h[?25l[50;196H8[3;8H[?25h[?25lg[50;196H9[3;9H[?25h[?25lr[50;196H10[3;10H[?25h[?25le[50;197H1[3;11H[?25h[?25la[50;197H2[3;12H[?25h[?25ld[50;197H3[3;13H[?25h[?25lt[50;197H4[3;14H[?25h[?25l[50;197H5[3;15H[?25h[?25ld[50;197H6[3;16H[?25h[?25la[50;197H7[3;17H[?25h[?25lt[50;197H8[3;18H[?25h[?25l[3;17H[K[50;197H7[3;17H[?25h[?25l[3;16H[K[50;197H6[3;16H[?25h[?25l[3;15H[K[50;197H5[3;15H[?25h[?25l[50;197H4[3;14H[?25h[?25l[3;13H[K[50;197H3[3;13H[?25h[?25l[3;12H[K[50;197H2[3;12H[?25h[?25l[3;11H[K[50;197H1[3;11H[?25h[?25la[50;197H2[3;12H[?25h[?25lt[50;197H3[3;13H[?25h[?25l[50;197H4[3;14H[?25h[?25ld[50;197H5[3;15H[?25h[?25la[50;197H6[3;16H[?25h[?25ly[50;197H7[3;17H[?25h[?25l[50;197H8[3;18H[?25h[?25la[50;197H9[3;19H[?25h[?25lg[50;196H20[3;20H[?25h[?25l[3;19H[K[50;196H19[3;19H[?25h[?25lh[50;196H20[3;20H[?25h[?25le[50;197H1[3;21H[?25h[?25la[50;197H2[3;22H[?25h[?25ld[50;197H3[3;23H[?25h[?25l[4;1H[K[50;194H4,1 [4;1H[?25h[50;1H[K[4;1H[?25l[50;184H^[[4;1H[50;184H  [4;1H[50;194H4,0-1[9CAll[4;1H[?25h[?25l[50;184H:[4;1H[50;184H[K[50;1H:[?2004h[?25hw[?25l"draft.txt" 4L, 77C written[4;1H[50;194H4,0-1[9CAll[50;194H[K[50;194H4,0-1[9CAll[4;1H[?25h[?25l[50;184H:[4;1H[50;1H[K[50;1H:[?2004h[?25hq[?25l[?2004l[23;2t[23;1t[50;1H[K[50;1H[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/RoughAssignment1[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/RoughAssignment1[00m$ car draft.txt 
+
+Command 'car' not found, but can be installed with:
+
+sudo apt install ucommon-utils
+
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/RoughAssignment1[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/RoughAssignment1[00m$ cat draft.txt 
+Hey there!
+This is my first assignment on unix shell
+Have a great day ahead
+
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/RoughAssignment1[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/RoughAssignment1[00m$ nano draft.txt 
+[?2004h[?1049h[22;0;0t[1;50r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[48;99H(B[0;7m[ Reading... ](B[m[48;98H(B[0;7m[ Read 4 lines ](B[m[H(B[0;7m  GNU nano 4.8                                                                                         draft.txt                                                                                                   [1;210H(B[m[49d(B[0;7m^G(B[m Get Help[18G(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut Text[69G(B[0;7m^J(B[m Justify[86G(B[0;7m^C(B[m Cur Pos[103G(B[0;7mM-U(B[m Undo[49;120H(B[0;7mM-A(B[m Mark Text    (B[0;7mM-](B[m To Bracket   (B[0;7mM-Q(B[m Previous     (B[0;7m^B(B[m Back[49;188H(B[0;7m^◀(B[m Prev Word[50d(B[0;7m^X(B[m Exit[50;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste Text    (B[0;7m^T(B[m To Spell[86G(B[0;7m^_(B[m Go To Line    (B[0;7mM-E(B[m Redo[50;120H(B[0;7mM-6(B[m Copy Text    (B[0;7m^Q(B[m Where Was     (B[0;7mM-W(B[m Next[50;171H(B[0;7m^F(B[m Forward[188G(B[0;7m^▶(B[m Next Word[48d[2d[39;49m(B[mHey there![3dThis is my first assignment on unix shell[4dHave a great day ahead[2d[?12l[?25h[?25l[3d[?12l[?25h[?25l[4d[?12l[?25h[?25l[4;23H[?12l[?25h[?25l[1;202H(B[0;7mModified(B[m[5d[?12l[?25h[?25lT[?12l[?25h[?25lh[?12l[?25h[?25li[?12l[?25h[?25ls[?12l[?25h[?25l [?12l[?25h[?25li[?12l[?25h[?25ls[?12l[?25h[?25l [?12l[?25h[?25la[?12l[?25h[?25l [?12l[?25h[?25lt[?12l[?25h[?25lr[?12l[?25h[?25ly[?12l[?25h[?25l [?12l[?25h[?25lf[?12l[?25h[?25lr[?12l[?25h[?25lo[?12l[?25h[?25lm[?12l[?25h[?25l[?12l[?25h[?25l[1P[?12l[?25h[?25l[1P[?12l[?25h[?25l[1P[48d[K[5d[?12l[?25h[?25l[1P[?12l[?25h[?25lA is a try fromA[?12l[?25h[?25lb is a try fromAb[?12l[?25h[?25lo is a try fromAbo[?12l[?25h[?25lv is a try from[5G[?12l[?25h[?25l  is a try from[6G[?12l[?25h[?25l[1P[?12l[?25h[?25le is a try from[6G[?12l[?25h[?25l [?12l[?25h[?25l[1P[?12l[?25h[?25lws a try from[8G[?12l[?25h[?25las a try from[5;9H[?12l[?25h[?25l[5;21H[?12l[?25h[?25l [?12l[?25h[?25lv[?12l[?25h[?25li[?12l[?25h[?25lm[?12l[?25h[?25l [?12l[?25h[?25le[?12l[?25h[?25ld[?12l[?25h[?25li[?12l[?25h[?25lt[?12l[?25h[?25lo[?12l[?25h[?25lr[?12l[?25h[?25l[6d[?12l[?25h[?25lB[?12l[?25h[?25le[?12l[?25h[?25ll[?12l[?25h[?25lo[?12l[?25h[?25lw[?12l[?25h[?25l [?12l[?25h[?25li[?12l[?25h[?25ls[?12l[?25h[?25l [?12l[?25h[?25lt[?12l[?25h[?25lh[?12l[?25h[?25le[?12l[?25h[?25l [?12l[?25h[?25lt[?12l[?25h[?25lr[?12l[?25h[?25ly[?12l[?25h[?25l [?12l[?25h[?25lf[?12l[?25h[?25lr[?12l[?25h[?25lo[?12l[?25h[?25lm[?12l[?25h[?25l [?12l[?25h[?25ln[?12l[?25h[?25la[?12l[?25h[?25ln[?12l[?25h[?25lo[?12l[?25h[?25l [?12l[?25h[?25le[?12l[?25h[?25ld[?12l[?25h[?25li[?12l[?25h[?25lt[?12l[?25h[?25lo[?12l[?25h[?25lr[?12l[?25h[?25l[7d[?12l[?25h[?25l[?12l[?25h[?25l[?1h=[?1h=[H[2J(B[0;7m  GNU nano 4.8                                                                                         draft.txt                                                                                         Modified  [2;1H(B[mHey there![3dThis is my first assignment on unix shell[4dHave a great day ahead[5dAbove was a try from vim editor[6dBelow is the try from nano editor[49d(B[0;7m^G(B[m Get Help[18G(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut Text[69G(B[0;7m^J(B[m Justify[86G(B[0;7m^C(B[m Cur Pos[103G(B[0;7mM-U(B[m Undo[49;120H(B[0;7mM-A(B[m Mark Text    (B[0;7mM-](B[m To Bracket   (B[0;7mM-Q(B[m Previous     (B[0;7m^B(B[m Back[49;188H(B[0;7m^◀(B[m Prev Word[50d[1;210H[49d[K[50;95H(B[0;7m[ Help mode disabled ](B[m[7d[?12l[?25h[?25lx[?12l[?25h[?25l[K[?12l[?25h[?25l[8d[?12l[?25h[?25l^X[?12l[?25h[?25l[9d[?12l[?25h[?25l[10d[?12l[?25h[?25l[?12l[?25h[?25l[50;95H    (B[0;7m[ Writing... ](B[m[K[1;202H(B[0;7m        (B[m[50;97H(B[0;7m[ Wrote 10 lines ](B[m[10d[?12l[?25h[?25l[?12l[?25h[?25l[50;92H(B[0;7m[ No current search pattern ](B[m[10d[?12l[?25h[?25l[1;202H(B[0;7mModified(B[m[11d[?12l[?25h[?25l[50d(B[0;7mSave modified buffer?                                                                                                                                                                                             [?7l [?7h[50;23H(B[m[?12l[?25h[?25l(B[0;7mFile Name to Write: draft.txt(B[m[50;30H[?12l[?25h[?25l[50;98H[1K (B[0;7m[ Writing... ](B[m[K[1;202H(B[0;7m        (B[m[50;97H(B[0;7m[ Wrote 11 lines ](B[m[J[?12l[?25h[50;1H[?1049l[23;0;0t[?1l>[?2004l]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/RoughAssignment1[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/RoughAssignment1[00m$ cat draft.txt
+Hey there!
+This is my first assignment on unix shell
+Have a great day ahead
+Above was a try from vim editor
+Below is the try from nano editor
+
+^X
+
+
+
+
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/RoughAssignment1[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/RoughAssignment1[00m$ wc *.txt | head -n 1
+ 11  30 150 draft.txt
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/RoughAssignment1[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/RoughAssignment1[00m$ wc *.txt | head -n 1[1P[1@d[1@r[1@a[1@d[1@t[1P[1P[1@f[1@t[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+ 11  30 150 draft.txt
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/RoughAssignment1[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/RoughAssignment1[00m$ wc *.txt | head -n 1[K3
+ 11  30 150 draft.txt
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/RoughAssignment1[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/RoughAssignment1[00m$ cd ..
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~[00m$ wc *.txt | head -n 1
+ 8  7 40 Naveen.txt
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~[00m$ cd 
+.cache/           .git/             .landscape/       .local/           RoughAssignment1/ git_workspace/    kk/               newtry/           thursday25/       
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~[00m$ cd RoughAssignment1/[K
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/RoughAssignment1[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/RoughAssignment1[00m$ LL
+LL: command not found
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/RoughAssignment1[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/RoughAssignment1[00m$ ll
+total 12
+drwxr-xr-x  2 naveen_kumaran_kumar naveen_kumaran_kumar 4096 Aug 25 14:48 [0m[01;34m.[0m/
+drwxr-xr-x 11 naveen_kumaran_kumar naveen_kumaran_kumar 4096 Aug 25 14:45 [01;34m..[0m/
+-rw-r--r--  1 naveen_kumaran_kumar naveen_kumaran_kumar  150 Aug 25 14:48 draft.txt
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/RoughAssignment1[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/RoughAssignment1[00m$ echo tryingtoappend>>draft.txt
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/RoughAssignment1[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/RoughAssignment1[00m$ cat draft.txt 
+Hey there!
+This is my first assignment on unix shell
+Have a great day ahead
+Above was a try from vim editor
+Below is the try from nano editor
+
+^X
+
+
+
+
+tryingtoappend
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/RoughAssignment1[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/RoughAssignment1[00m$ *t.txt
+draft.txt: command not found
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/RoughAssignment1[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/RoughAssignment1[00m$ cat draft.txt | head -n 2
+Hey there!
+This is my first assignment on unix shell
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/RoughAssignment1[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/RoughAssignment1[00m$ cp [K[K[Kpwd
+/home/naveen_kumaran_kumar/RoughAssignment1
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/RoughAssignment1[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/RoughAssignment1[00m$ cp draft.txt draft.txt [K[K[K[K[K[K[K[K[K[Kna[K[K[K/home/naveen_kumaran_kumar[C[C /home/naveen_kumaran_kumar[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/drq[Kaftcopy.txt
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~/RoughAssignment1[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~/RoughAssignment1[00m$ cd ..
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~[00m$ ll
+total 136
+drwxr-xr-x 11 naveen_kumaran_kumar naveen_kumaran_kumar  4096 Aug 25 15:00 [0m[01;34m.[0m/
+drwxr-xr-x  3 root                 root                  4096 Aug 23 00:16 [01;34m..[0m/
+-rw-------  1 naveen_kumaran_kumar naveen_kumaran_kumar  2495 Aug 25 13:52 .bash_history
+-rw-r--r--  1 naveen_kumaran_kumar naveen_kumaran_kumar   220 Aug 23 00:16 .bash_logout
+-rw-r--r--  1 naveen_kumaran_kumar naveen_kumaran_kumar  3771 Aug 23 00:16 .bashrc
+drwx------  2 naveen_kumaran_kumar naveen_kumaran_kumar  4096 Aug 24 23:48 [01;34m.cache[0m/
+drwxr-xr-x  8 naveen_kumaran_kumar naveen_kumaran_kumar  4096 Aug 25 13:55 [01;34m.git[0m/
+-rw-r--r--  1 naveen_kumaran_kumar naveen_kumaran_kumar    82 Aug 25 14:08 .gitconfig
+drwxr-xr-x  2 naveen_kumaran_kumar naveen_kumaran_kumar  4096 Aug 23 00:17 [01;34m.landscape[0m/
+drwxr-xr-x  3 naveen_kumaran_kumar naveen_kumaran_kumar  4096 Aug 23 17:58 [01;34m.local[0m/
+-rw-r--r--  1 naveen_kumaran_kumar naveen_kumaran_kumar     0 Aug 23 00:17 .motd_shown
+-rw-r--r--  1 naveen_kumaran_kumar naveen_kumaran_kumar   807 Aug 23 00:16 .profile
+-rw-------  1 naveen_kumaran_kumar naveen_kumaran_kumar    13 Aug 23 00:24 .pythonhist
+-rw-r--r--  1 naveen_kumaran_kumar naveen_kumaran_kumar     0 Aug 23 00:18 .sudo_as_admin_successful
+-rw-------  1 naveen_kumaran_kumar naveen_kumaran_kumar  9081 Aug 25 14:45 .viminfo
+-rw-r--r--  1 naveen_kumaran_kumar naveen_kumaran_kumar    40 Aug 23 18:36 Naveen.txt
+drwxr-xr-x  2 naveen_kumaran_kumar naveen_kumaran_kumar  4096 Aug 25 14:48 [01;34mRoughAssignment1[0m/
+-rw-r--r--  1 naveen_kumaran_kumar naveen_kumaran_kumar 28672 Aug 25 14:53 assignment1unixshell
+-rw-r--r--  1 naveen_kumaran_kumar naveen_kumaran_kumar   165 Aug 25 15:00 draftcopy.txt
+drwxr-xr-x  3 naveen_kumaran_kumar naveen_kumaran_kumar  4096 Aug 24 23:51 [01;34mgit_workspace[0m/
+-rw-r--r--  1 naveen_kumaran_kumar naveen_kumaran_kumar     0 Aug 23 18:22 iie.txt
+drwxr-xr-x  2 naveen_kumaran_kumar naveen_kumaran_kumar  4096 Aug 23 18:30 [01;34mkk[0m/
+-rw-r--r--  1 naveen_kumaran_kumar naveen_kumaran_kumar  5089 Aug 25 01:48 my_unix_session
+drwxr-xr-x  3 naveen_kumaran_kumar naveen_kumaran_kumar  4096 Aug 25 13:59 [01;34mnewtry[0m/
+-rw-r--r--  1 naveen_kumaran_kumar naveen_kumaran_kumar  3306 Aug 25 13:25 thurs_session
+drwxr-xr-x  2 naveen_kumaran_kumar naveen_kumaran_kumar  4096 Aug 25 13:48 [01;34mthursday25[0m/
+-rw-r--r--  1 naveen_kumaran_kumar naveen_kumaran_kumar  4081 Aug 25 13:52 thursday25recording
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~[00m$ cat draftcopy.txt 
+Hey there!
+This is my first assignment on unix shell
+Have a great day ahead
+Above was a try from vim editor
+Below is the try from nano editor
+
+^X
+
+
+
+
+tryingtoappend
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~[00m$ rm kk[K[Kiie.txt
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~[00m$ mv draftcopy.txt /home/naveen_kumaran_kumar/newtry/dr[K[Kdraftcopy.txt
+]0;naveen_kumaran_kumar@LAPTOP-AVB33SUQ: ~[01;32mnaveen_kumaran_kumar@LAPTOP-AVB33SUQ[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2022-08-25 15:02:21-05:00 [COMMAND_EXIT_CODE="0"]
